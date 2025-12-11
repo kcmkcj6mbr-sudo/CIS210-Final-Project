@@ -1,0 +1,43 @@
+/* 
+    Gabriel Viau
+    Assignment: CSS Text & Font Properties
+*/
+body {
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 1.1em;
+    line-height: 1.8;
+    color: #333333;
+}
+p {
+    text-align: justify;
+    margin-bottom: 20px;
+}
+h1 {
+    font-family: 'Montserrat', Helvetica, sans-serif;
+    font-size: 3em;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #2c3e50;
+}
+
+h2 {
+    font-family: 'Montserrat', Helvetica, sans-serif;
+    font-size: 2em;
+    font-weight: 700;
+    color: #3498db;
+}
+ul {
+    line-height: 1.6;
+    margin-left: 40px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #3498db;
+    text-decoration: none;
+    font-weight: 600;
+}
